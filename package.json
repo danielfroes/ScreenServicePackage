@@ -1,0 +1,14 @@
+{
+  "name": "com.drf.screen-service",
+  "version": "1.0.0",
+  "displayName": "Screen Service",
+  "unity": "2021.3",
+  "unityRelease": "17f1",
+  "dependencies": {
+    "com.drf.utils": "1.0.0"
+  },
+  "author": {
+    "name": "Daniel da Rocha Fróes",
+    "email": "danielfroes15@gmail.com"
+  }
+}
