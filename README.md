@@ -1,2 +1,4 @@
 # ScreenServicePackage
-Unity package for screen management
+Unity package for screen management.
+
+Support Addressable screens.
